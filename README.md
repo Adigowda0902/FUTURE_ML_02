@@ -247,7 +247,7 @@ Possible improvements for the system:
 
 ## 👨‍💻 Author  
 
-### Deepak Chakrasali  
+### Adithya Gowda
 
 Machine Learning & AI Enthusiast  
 
